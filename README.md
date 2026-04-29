@@ -26,17 +26,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge)
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaysonpantollana&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysonpantollana&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaysonpantollana&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
