@@ -1,7 +1,6 @@
 <div align="center">
 
 # 🚀 Hello I'm Jayson Pantollana 
-
 **Student · Researcher · Vibecoder · Athlete**
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/jaysonpantoallana)
@@ -10,7 +9,6 @@
 [![Address](https://img.shields.io/badge/Address-F61A21?logo=google-maps&logoColor=white)](https://www.google.com/maps/place/8%C2%B015'28.5%22N+124%C2%B015'58.8%22E/@8.2579123,124.2656953,19z/data=!3m1!4b1!4m4!3m3!8m2!3d8.257911!4d124.266339?entry=ttu&g_ep=EgoyMDI2MDQyNi4wIKXMDSoASAFQAw%3D%3D)
 
 </div>
----
 
 ## 🛠️ "My Stack"
 
